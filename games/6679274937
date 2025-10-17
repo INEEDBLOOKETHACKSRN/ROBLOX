@@ -1,4 +1,4 @@
---Vans World
+--Blue Lock:Rivals
 local ui = loadstring(game:HttpGet('https://raw.githubusercontent.com/BoaHacker/ROBLOX/main/ui', true))()
 
 local player = game.Players.LocalPlayer
